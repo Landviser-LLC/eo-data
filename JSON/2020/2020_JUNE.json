@@ -1,0 +1,4151 @@
+{
+  "timelineObjects" : [ {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 295383868,
+        "longitudeE7" : -950755032,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 295377109,
+        "longitudeE7" : -950753806,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1591031475000",
+        "endTimestampMs" : "1591032790167"
+      },
+      "distance" : 1189,
+      "activityType" : "WALKING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 73.83915185928345
+      }, {
+        "activityType" : "STILL",
+        "probability" : 12.0500348508358
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 9.093772619962692
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 2.0940978080034256
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.5547774732112885
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.5868131760507822
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.4338501952588558
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.10865929070860147
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0966710620559752
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.0740672112442553
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.05214676493778825
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0076816140790469944
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.004736968912766315
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0034109485568478703
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.3205153663875535E-4
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 295384025,
+          "lngE7" : -950754394
+        }, {
+          "latE7" : 295378150,
+          "lngE7" : -950772171
+        }, {
+          "latE7" : 295381488,
+          "lngE7" : -950768203
+        }, {
+          "latE7" : 295352859,
+          "lngE7" : -950746917
+        }, {
+          "latE7" : 295352821,
+          "lngE7" : -950752563
+        }, {
+          "latE7" : 295347690,
+          "lngE7" : -950764007
+        }, {
+          "latE7" : 295351428,
+          "lngE7" : -950766143
+        }, {
+          "latE7" : 295377197,
+          "lngE7" : -950753784
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 295381336,
+          "lngE7" : -950768051,
+          "timestampMs" : "1591031595709",
+          "accuracyMeters" : 35
+        }, {
+          "latE7" : 295357361,
+          "lngE7" : -950755310,
+          "timestampMs" : "1591031958198",
+          "accuracyMeters" : 29
+        }, {
+          "latE7" : 295355453,
+          "lngE7" : -950772095,
+          "timestampMs" : "1591032317512",
+          "accuracyMeters" : 62
+        }, {
+          "latE7" : 295347958,
+          "lngE7" : -950762634,
+          "timestampMs" : "1591032432446",
+          "accuracyMeters" : 6
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 295381029,
+        "longitudeE7" : -950748549,
+        "placeId" : "ChIJp0lWhW6dQIYRgjSIawgKlNM",
+        "address" : "828 Davis Rd\nLeague City, TX 77573\nUSA",
+        "name" : "828 Davis Rd",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        },
+        "locationConfidence" : 97.81176
+      },
+      "duration" : {
+        "startTimestampMs" : "1591032790167",
+        "endTimestampMs" : "1591038251729"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 295380658,
+      "centerLngE7" : -950748932,
+      "visitConfidence" : 85,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 295376648,
+        "longitudeE7" : -950771747,
+        "placeId" : "ChIJ2Yebp26dQIYRH3SjcAqSr6o",
+        "locationConfidence" : 0.80042
+      }, {
+        "latitudeE7" : 295381029,
+        "longitudeE7" : -950748549,
+        "placeId" : "ChIJx0zFj26dQIYRYiAbAKOwin0",
+        "locationConfidence" : 0.46671036
+      }, {
+        "latitudeE7" : 295376687,
+        "longitudeE7" : -950771634,
+        "placeId" : "ChIJuUwORGydQIYRaf16u53hHMk",
+        "locationConfidence" : 0.24751674
+      }, {
+        "latitudeE7" : 295325185,
+        "longitudeE7" : -950722157,
+        "placeId" : "ChIJX1V5bGidQIYRBxu80OUoAks",
+        "locationConfidence" : 0.21713963
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 295380996,
+        "longitudeE7" : -950748653,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 293234136,
+        "longitudeE7" : -952596365,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1591038251729",
+        "endTimestampMs" : "1591040804000"
+      },
+      "distance" : 36235,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 97.4103033542633
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.9423723444342613
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.7927053608000278
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.4510072059929371
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.14763301005586982
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.09250639122910798
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.06671960582025349
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.031000361195765436
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.02980837889481336
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.018224367522634566
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.011559011181816459
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0044731357775162905
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0013673653484147508
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 3.271231889812043E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.7577086453002266E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 295379962,
+          "lngE7" : -950753173
+        }, {
+          "latE7" : 294039287,
+          "lngE7" : -952376937
+        }, {
+          "latE7" : 293234119,
+          "lngE7" : -952596054
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1591040939328",
+        "location" : {
+          "latitudeE7" : 293243641,
+          "longitudeE7" : -952602376,
+          "accuracyMetres" : 23
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 293249564,
+        "longitudeE7" : -952605870,
+        "placeId" : "ChIJeey4lT2PQIYRKciiva65ZLM",
+        "address" : "1925 FM 2917\nAlvin, TX 77511\nUSA",
+        "name" : "Ricetec",
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        },
+        "locationConfidence" : 51.027367
+      },
+      "duration" : {
+        "startTimestampMs" : "1591040804000",
+        "endTimestampMs" : "1591049117648"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 293243000,
+      "centerLngE7" : -952600095,
+      "visitConfidence" : 91,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 293244057,
+        "longitudeE7" : -952600250,
+        "placeId" : "ChIJ43ttui-IQIYRp31vCgOoN1U",
+        "locationConfidence" : 48.972633
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 293234136,
+          "lngE7" : -952596365,
+          "timestampMs" : "1591040804000",
+          "accuracyMeters" : 3
+        }, {
+          "latE7" : 293241419,
+          "lngE7" : -952602892,
+          "timestampMs" : "1591040849000",
+          "accuracyMeters" : 3
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 293240902,
+        "longitudeE7" : -952602960,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 295379795,
+        "longitudeE7" : -950751535,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1591049117648",
+        "endTimestampMs" : "1591051687000"
+      },
+      "distance" : 36139,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 73.3085036277771
+      }, {
+        "activityType" : "STILL",
+        "probability" : 22.832584381103516
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 3.5087935626506805
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.08713086717762053
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.07886465755291283
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.06398665136657655
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.04415632283780724
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.034737386158667505
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.02440872776787728
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.007603564154123887
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.006160972407087684
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0019079161575064063
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0010589490557322279
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 8.896039389583166E-5
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.8108734423094575E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 293240947,
+          "lngE7" : -952602996
+        }, {
+          "latE7" : 294029140,
+          "lngE7" : -952382049
+        }, {
+          "latE7" : 295379467,
+          "lngE7" : -950753021
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1591051732000",
+        "location" : {
+          "latitudeE7" : 295381246,
+          "longitudeE7" : -950749452,
+          "accuracyMetres" : 18
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 295381029,
+        "longitudeE7" : -950748549,
+        "placeId" : "ChIJp0lWhW6dQIYRgjSIawgKlNM",
+        "address" : "828 Davis Rd\nLeague City, TX 77573\nUSA",
+        "name" : "828 Davis Rd",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        },
+        "locationConfidence" : 96.10775
+      },
+      "duration" : {
+        "startTimestampMs" : "1591051687000",
+        "endTimestampMs" : "1591052813306"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 295380857,
+      "centerLngE7" : -950749593,
+      "visitConfidence" : 94,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 295376648,
+        "longitudeE7" : -950771747,
+        "placeId" : "ChIJ2Yebp26dQIYRH3SjcAqSr6o",
+        "locationConfidence" : 1.7577115
+      }, {
+        "latitudeE7" : 295325185,
+        "longitudeE7" : -950722157,
+        "placeId" : "ChIJX1V5bGidQIYRBxu80OUoAks",
+        "locationConfidence" : 0.72378826
+      }, {
+        "latitudeE7" : 295346932,
+        "longitudeE7" : -950715833,
+        "placeId" : "ChIJ4XzqwWidQIYRQlMCpNqjAnc",
+        "locationConfidence" : 0.3586126
+      }, {
+        "latitudeE7" : 295381029,
+        "longitudeE7" : -950748549,
+        "placeId" : "ChIJx0zFj26dQIYRYiAbAKOwin0",
+        "locationConfidence" : 0.30857036
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 295378472,
+        "longitudeE7" : -950752966,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 296481609,
+        "longitudeE7" : -951908008,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1591052813306",
+        "endTimestampMs" : "1591054372000"
+      },
+      "distance" : 23203,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 95.77054977416992
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 1.4707407914102077
+      }, {
+        "activityType" : "STILL",
+        "probability" : 1.349231693893671
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.945199653506279
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.19117920892313123
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.11647182982414961
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.05081970593892038
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.029752610134892166
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.025949496193788946
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.02572772791609168
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.015993828128557652
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.006167733226902783
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0012694208635366522
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 9.167695679934695E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 2.936998271252378E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 295378532,
+          "lngE7" : -950752716
+        }, {
+          "latE7" : 295423221,
+          "lngE7" : -951429901
+        }, {
+          "latE7" : 296481609,
+          "lngE7" : -951907958
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1591054478667",
+        "location" : {
+          "latitudeE7" : 296504532,
+          "longitudeE7" : -951913878,
+          "accuracyMetres" : 26
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 296505052,
+        "longitudeE7" : -951913010,
+        "placeId" : "ChIJxfmE51CYQIYR7fBzzxGw7oU",
+        "address" : "4016 Strawberry Rd\nPasadena, TX 77504\nUSA",
+        "name" : "Champion Martial Arts & Fitness",
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        },
+        "locationConfidence" : 91.33912
+      },
+      "duration" : {
+        "startTimestampMs" : "1591054372000",
+        "endTimestampMs" : "1591058967000"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 296505612,
+      "centerLngE7" : -951914735,
+      "visitConfidence" : 95,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 296504327,
+        "longitudeE7" : -951914138,
+        "placeId" : "ChIJH4DXX0WdQIYRrItT23NDvqo",
+        "locationConfidence" : 2.9848797
+      }, {
+        "latitudeE7" : 296504211,
+        "longitudeE7" : -951914381,
+        "placeId" : "ChIJv0S63VCYQIYR9mAODgMLAA0",
+        "locationConfidence" : 2.7786262
+      }, {
+        "latitudeE7" : 296504327,
+        "longitudeE7" : -951914138,
+        "placeId" : "ChIJdSNfHkCZQIYR32WyzYMBwqg",
+        "locationConfidence" : 0.8399259
+      }, {
+        "latitudeE7" : 296507304,
+        "longitudeE7" : -951912503,
+        "placeId" : "ChIJWYMjw1CYQIYRBISVM6fNZXQ",
+        "locationConfidence" : 0.6442638
+      }, {
+        "latitudeE7" : 296504211,
+        "longitudeE7" : -951914381,
+        "placeId" : "ChIJv0S63VCYQIYRymcRc5e_JHA",
+        "locationConfidence" : 0.45044515
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 296506292,
+        "longitudeE7" : -951912177,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 295361008,
+        "longitudeE7" : -950747015,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1591058967000",
+        "endTimestampMs" : "1591060476000"
+      },
+      "distance" : 25034,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 95.80431580543518
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 2.3408861830830574
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.7765024434775114
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.7272266782820225
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.1653607003390789
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.06816931418143213
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.04928872222080827
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.02060244878521189
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.01664090232225135
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.015442937728948891
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.012682827946264297
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0023207932827062905
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 4.056583293277072E-4
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 1.5004090982984053E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.2375805624742497E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 296506423,
+          "lngE7" : -951908340
+        }, {
+          "latE7" : 296206989,
+          "lngE7" : -951847305
+        }, {
+          "latE7" : 295077323,
+          "lngE7" : -950955429
+        }, {
+          "latE7" : 295150108,
+          "lngE7" : -950853195
+        }, {
+          "latE7" : 295360908,
+          "lngE7" : -950747375
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 295077667,
+          "lngE7" : -950955048,
+          "timestampMs" : "1591060206000",
+          "accuracyMeters" : 5
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1591060596000",
+        "location" : {
+          "latitudeE7" : 295380146,
+          "longitudeE7" : -950748023,
+          "accuracyMetres" : 18
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 295381029,
+        "longitudeE7" : -950748549,
+        "placeId" : "ChIJp0lWhW6dQIYRgjSIawgKlNM",
+        "address" : "828 Davis Rd\nLeague City, TX 77573\nUSA",
+        "name" : "828 Davis Rd",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        },
+        "locationConfidence" : 97.71598
+      },
+      "duration" : {
+        "startTimestampMs" : "1591060476000",
+        "endTimestampMs" : "1591125426000"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 295381492,
+      "centerLngE7" : -950748363,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 295381029,
+        "longitudeE7" : -950748549,
+        "placeId" : "ChIJx0zFj26dQIYRYiAbAKOwin0",
+        "locationConfidence" : 0.8397308
+      }, {
+        "latitudeE7" : 295376648,
+        "longitudeE7" : -950771747,
+        "placeId" : "ChIJ2Yebp26dQIYRH3SjcAqSr6o",
+        "locationConfidence" : 0.69827855
+      }, {
+        "latitudeE7" : 295385339,
+        "longitudeE7" : -950754971,
+        "placeId" : "ChIJ3452KmydQIYR-dKDPXCcE_4",
+        "locationConfidence" : 0.16605534
+      }, {
+        "latitudeE7" : 295325185,
+        "longitudeE7" : -950722157,
+        "placeId" : "ChIJX1V5bGidQIYRBxu80OUoAks",
+        "locationConfidence" : 0.14136076
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 295376374,
+        "longitudeE7" : -950752270,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 297472014,
+        "longitudeE7" : -953599354,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1591125426000",
+        "endTimestampMs" : "1591136895000"
+      },
+      "distance" : 41332,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 84.28598642349243
+      }, {
+        "activityType" : "STILL",
+        "probability" : 9.917614609003067
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 2.885238640010357
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 1.5268579125404358
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.5431998986750841
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.3268835600465536
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.16232478665187955
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.09342606645077467
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.08609911310486495
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0848679628688842
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.06633069133386016
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.008610860822955146
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.00828529882710427
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.004148048901697621
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.281160280086624E-4
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 295339374,
+          "lngE7" : -950740966
+        }, {
+          "latE7" : 297371349,
+          "lngE7" : -953496322
+        }, {
+          "latE7" : 297635116,
+          "lngE7" : -953755340
+        }, {
+          "latE7" : 297601451,
+          "lngE7" : -953748855
+        }, {
+          "latE7" : 297473716,
+          "lngE7" : -953581771
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 297634163,
+          "lngE7" : -953755341,
+          "timestampMs" : "1591136300000",
+          "accuracyMeters" : 3
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1591137416196",
+        "location" : {
+          "latitudeE7" : 297470205,
+          "longitudeE7" : -953579909,
+          "accuracyMetres" : 39
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 297470276,
+        "longitudeE7" : -953579994,
+        "placeId" : "ChIJmStIKRm_QIYRyQrbukgt5u8",
+        "address" : "1508 Hutchins St\nHouston, TX 77003\nUSA",
+        "name" : "District 7 Grill Eado",
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        },
+        "locationConfidence" : 90.95631
+      },
+      "duration" : {
+        "startTimestampMs" : "1591136895000",
+        "endTimestampMs" : "1591140007128"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 297469334,
+      "centerLngE7" : -953580176,
+      "visitConfidence" : 94,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 297470344,
+        "longitudeE7" : -953579938,
+        "placeId" : "ChIJ65TB0hC_QIYRoVknq-D2ArA",
+        "locationConfidence" : 4.572515
+      }, {
+        "latitudeE7" : 297467485,
+        "longitudeE7" : -953580577,
+        "placeId" : "ChIJ_zGgJRm_QIYRRyErm6DvsDw",
+        "locationConfidence" : 2.6829636
+      }, {
+        "latitudeE7" : 297465193,
+        "longitudeE7" : -953582047,
+        "placeId" : "ChIJ0eM2Oxm_QIYRBROQDaT-6_s",
+        "locationConfidence" : 1.036697
+      }, {
+        "latitudeE7" : 297475000,
+        "longitudeE7" : -953588889,
+        "placeId" : "ChIJpbKIHRm_QIYRGCroYRUJD3E",
+        "locationConfidence" : 0.45838252
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 297459720,
+        "longitudeE7" : -953578711,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 295381043,
+        "longitudeE7" : -950749529,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1591140007128",
+        "endTimestampMs" : "1591142359000"
+      },
+      "distance" : 40023,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 97.84933924674988
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.7689586374908686
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.6557386834174395
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.45438800007104874
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.11416636407375336
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.04119694058317691
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.040714870556257665
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.027825622237287462
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.024145073257386684
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.00932691982598044
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.006550030957441777
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.006126060907263309
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 9.691631021269131E-4
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 5.551668436964974E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.9018175123619585E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 297460422,
+          "lngE7" : -953578109
+        }, {
+          "latE7" : 297408714,
+          "lngE7" : -953492202
+        }, {
+          "latE7" : 297381057,
+          "lngE7" : -953464050
+        }, {
+          "latE7" : 296905364,
+          "lngE7" : -952827987
+        }, {
+          "latE7" : 295077857,
+          "lngE7" : -950956039
+        }, {
+          "latE7" : 295101795,
+          "lngE7" : -950914993
+        }, {
+          "latE7" : 295363845,
+          "lngE7" : -950748291
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 297382545,
+          "lngE7" : -953463593,
+          "timestampMs" : "1591140184000",
+          "accuracyMeters" : 3
+        }, {
+          "latE7" : 295078430,
+          "lngE7" : -950955963,
+          "timestampMs" : "1591141924000",
+          "accuracyMeters" : 3
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1591142906859",
+        "location" : {
+          "latitudeE7" : 295380949,
+          "longitudeE7" : -950748645,
+          "accuracyMetres" : 28
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 295381029,
+        "longitudeE7" : -950748549,
+        "placeId" : "ChIJp0lWhW6dQIYRgjSIawgKlNM",
+        "address" : "828 Davis Rd\nLeague City, TX 77573\nUSA",
+        "name" : "828 Davis Rd",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        },
+        "locationConfidence" : 98.2593
+      },
+      "duration" : {
+        "startTimestampMs" : "1591142359000",
+        "endTimestampMs" : "1591204632000"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 295381252,
+      "centerLngE7" : -950748537,
+      "visitConfidence" : 88,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 295381029,
+        "longitudeE7" : -950748549,
+        "placeId" : "ChIJx0zFj26dQIYRYiAbAKOwin0",
+        "locationConfidence" : 0.7942383
+      }, {
+        "latitudeE7" : 295376648,
+        "longitudeE7" : -950771747,
+        "placeId" : "ChIJ2Yebp26dQIYRH3SjcAqSr6o",
+        "locationConfidence" : 0.48884216
+      }, {
+        "latitudeE7" : 295385339,
+        "longitudeE7" : -950754971,
+        "placeId" : "ChIJ3452KmydQIYR-dKDPXCcE_4",
+        "locationConfidence" : 0.12960905
+      }, {
+        "latitudeE7" : 295376687,
+        "longitudeE7" : -950771634,
+        "placeId" : "ChIJuUwORGydQIYRaf16u53hHMk",
+        "locationConfidence" : 0.12828831
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 295377634,
+        "longitudeE7" : -950753027,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 294655650,
+        "longitudeE7" : -950881141,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1591204632000",
+        "endTimestampMs" : "1591206213000"
+      },
+      "distance" : 11708,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 91.78634285926819
+      }, {
+        "activityType" : "STILL",
+        "probability" : 5.881380662322044
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.619168370962143
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.24625121150165796
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.18383546266704798
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.09006850887089968
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.08390516159124672
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.033012707717716694
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.03263080143369734
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.01875447778729722
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0166823563631624
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.005316058013704605
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.002080392005154863
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 5.318355761119165E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 3.02020310982698E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 295353298,
+          "lngE7" : -950745162
+        }, {
+          "latE7" : 294567298,
+          "lngE7" : -950836868
+        }, {
+          "latE7" : 294525756,
+          "lngE7" : -950814132
+        }, {
+          "latE7" : 294496345,
+          "lngE7" : -950769653
+        }, {
+          "latE7" : 294645576,
+          "lngE7" : -950864257
+        }, {
+          "latE7" : 294645538,
+          "lngE7" : -950865554
+        }, {
+          "latE7" : 294655513,
+          "lngE7" : -950881118
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 294524422,
+          "lngE7" : -950812912,
+          "timestampMs" : "1591205833000",
+          "accuracyMeters" : 3
+        }, {
+          "latE7" : 294644279,
+          "lngE7" : -950864182,
+          "timestampMs" : "1591206122000",
+          "accuracyMeters" : 3
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1591206249471",
+        "location" : {
+          "latitudeE7" : 294658746,
+          "longitudeE7" : -950884912,
+          "accuracyMetres" : 20
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 294658523,
+        "longitudeE7" : -950863040,
+        "placeId" : "ChIJG_yjjPqCQIYReaObZdUGfgM",
+        "address" : "3040 Gulf Fwy S\nLeague City, TX 77573\nUSA",
+        "name" : "League City Towne Center",
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        },
+        "locationConfidence" : 99.26742
+      },
+      "duration" : {
+        "startTimestampMs" : "1591206213000",
+        "endTimestampMs" : "1591208571000"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 294658365,
+          "longitudeE7" : -950883804,
+          "placeId" : "ChIJHT4ZW_qCQIYRDqUAeanJWBA",
+          "address" : "3150 Gulf Fwy S\nDickinson, TX 77539\nUSA",
+          "name" : "CareNow Urgent Care - League City",
+          "sourceInfo" : {
+            "deviceTag" : -1658417736
+          },
+          "locationConfidence" : 99.03453
+        },
+        "duration" : {
+          "startTimestampMs" : "1591206251000",
+          "endTimestampMs" : "1591208481000"
+        },
+        "placeConfidence" : "HIGH_CONFIDENCE",
+        "centerLatE7" : 294658462,
+        "centerLngE7" : -950883640,
+        "visitConfidence" : 91,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 294663677,
+          "longitudeE7" : -950879198,
+          "placeId" : "ChIJYxoHYfqCQIYR0Nq4hcs1nOA",
+          "locationConfidence" : 0.17743506
+        }, {
+          "latitudeE7" : 294667624,
+          "longitudeE7" : -950878108,
+          "placeId" : "ChIJs0o2A_eCQIYRLpIfWLvjOhQ",
+          "locationConfidence" : 0.055349074
+        }, {
+          "latitudeE7" : 294693072,
+          "longitudeE7" : -950907747,
+          "placeId" : "ChIJG8w1L_CDQIYR7_tyZAeXaAg",
+          "locationConfidence" : 1.673783E-6
+        }, {
+          "latitudeE7" : 294676212,
+          "longitudeE7" : -950872206,
+          "placeId" : "ChIJmTE4tvCCQIYR4Wn-CF_QZg0",
+          "locationConfidence" : 1.673783E-6
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : 294658590,
+      "centerLngE7" : -950882957,
+      "visitConfidence" : 91,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 294658329,
+        "longitudeE7" : -950883351,
+        "placeId" : "ChIJAzAG1vaCQIYRrEE75kyRQGo",
+        "locationConfidence" : 0.5889621
+      }, {
+        "latitudeE7" : 294689438,
+        "longitudeE7" : -950905264,
+        "placeId" : "ChIJg3ghffCCQIYRq7UTEfQDjmg",
+        "locationConfidence" : 0.14210537
+      }, {
+        "latitudeE7" : 294669084,
+        "longitudeE7" : -950879241,
+        "placeId" : "ChIJL1reJPGCQIYRt7D_5CZwhC0",
+        "locationConfidence" : 0.0015121304
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 294655650,
+          "lngE7" : -950881141,
+          "timestampMs" : "1591206213000",
+          "accuracyMeters" : 3
+        }, {
+          "latE7" : 294658731,
+          "lngE7" : -950884878,
+          "timestampMs" : "1591206251000",
+          "accuracyMeters" : 3
+        }, {
+          "latE7" : 294658804,
+          "lngE7" : -950878835,
+          "timestampMs" : "1591208481000",
+          "accuracyMeters" : 26
+        }, {
+          "latE7" : 294658870,
+          "lngE7" : -950884570,
+          "timestampMs" : "1591208511000",
+          "accuracyMeters" : 3
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 294663604,
+        "longitudeE7" : -950874487,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 295367534,
+        "longitudeE7" : -950749427,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1591208571000",
+        "endTimestampMs" : "1591209561000"
+      },
+      "distance" : 8945,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 96.94650769233704
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.381135731935501
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.5615487229079008
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.5610188003629446
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.2941588871181011
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.09058613795787096
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0797495769802481
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.024712213780730963
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.01971493911696598
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.016537928604520857
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.014806463150307536
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.007209875184344128
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0016114006939460523
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 6.864931947347941E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.6009674652650574E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 294663658,
+          "lngE7" : -950874786
+        }, {
+          "latE7" : 294904994,
+          "lngE7" : -950973663
+        }, {
+          "latE7" : 294926452,
+          "lngE7" : -950974655
+        }, {
+          "latE7" : 295157966,
+          "lngE7" : -950843276
+        }, {
+          "latE7" : 295367546,
+          "lngE7" : -950749359
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 294926414,
+          "lngE7" : -950974274,
+          "timestampMs" : "1591208961000",
+          "accuracyMeters" : 3
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1591209681000",
+        "location" : {
+          "latitudeE7" : 295380988,
+          "longitudeE7" : -950749174,
+          "accuracyMetres" : 26
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 295381029,
+        "longitudeE7" : -950748549,
+        "placeId" : "ChIJp0lWhW6dQIYRgjSIawgKlNM",
+        "address" : "828 Davis Rd\nLeague City, TX 77573\nUSA",
+        "name" : "828 Davis Rd",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        },
+        "locationConfidence" : 97.55034
+      },
+      "duration" : {
+        "startTimestampMs" : "1591209561000",
+        "endTimestampMs" : "1591228478000"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 295381242,
+      "centerLngE7" : -950748688,
+      "visitConfidence" : 86,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 295381029,
+        "longitudeE7" : -950748549,
+        "placeId" : "ChIJx0zFj26dQIYRYiAbAKOwin0",
+        "locationConfidence" : 0.90973604
+      }, {
+        "latitudeE7" : 295376648,
+        "longitudeE7" : -950771747,
+        "placeId" : "ChIJ2Yebp26dQIYRH3SjcAqSr6o",
+        "locationConfidence" : 0.71891475
+      }, {
+        "latitudeE7" : 295385339,
+        "longitudeE7" : -950754971,
+        "placeId" : "ChIJ3452KmydQIYR-dKDPXCcE_4",
+        "locationConfidence" : 0.18481395
+      }, {
+        "latitudeE7" : 295325185,
+        "longitudeE7" : -950722157,
+        "placeId" : "ChIJX1V5bGidQIYRBxu80OUoAks",
+        "locationConfidence" : 0.15116873
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 295383429,
+        "longitudeE7" : -950755376,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 295326178,
+        "longitudeE7" : -950737229,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1591228478000",
+        "endTimestampMs" : "1591230409000"
+      },
+      "distance" : 1712,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 86.84031963348389
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 8.452603220939636
+      }, {
+        "activityType" : "STILL",
+        "probability" : 1.3317883014678955
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 1.257222518324852
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.8173276670277119
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.5257573444396257
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.33782452810555696
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.1794873271137476
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.08114970987662673
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.05298703326843679
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.03647222765721381
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.035958318039774895
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.02718620526138693
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.02353209856664762
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 3.807921075349441E-4
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 295383682,
+          "lngE7" : -950754241
+        }, {
+          "latE7" : 295393466,
+          "lngE7" : -950757293
+        }, {
+          "latE7" : 295411090,
+          "lngE7" : -950762710
+        }, {
+          "latE7" : 295381183,
+          "lngE7" : -950768585
+        }, {
+          "latE7" : 295384216,
+          "lngE7" : -950754470
+        }, {
+          "latE7" : 295352840,
+          "lngE7" : -950755004
+        }, {
+          "latE7" : 295352859,
+          "lngE7" : -950756607
+        }, {
+          "latE7" : 295352859,
+          "lngE7" : -950756607
+        }, {
+          "latE7" : 295348567,
+          "lngE7" : -950756683
+        }, {
+          "latE7" : 295351448,
+          "lngE7" : -950766143
+        }, {
+          "latE7" : 295335750,
+          "lngE7" : -950739898
+        }, {
+          "latE7" : 295326194,
+          "lngE7" : -950737152
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 295411568,
+          "lngE7" : -950760651,
+          "timestampMs" : "1591228755368",
+          "accuracyMeters" : 18
+        }, {
+          "latE7" : 295380535,
+          "lngE7" : -950767822,
+          "timestampMs" : "1591229222847",
+          "accuracyMeters" : 14
+        }, {
+          "latE7" : 295359764,
+          "lngE7" : -950754929,
+          "timestampMs" : "1591229671489",
+          "accuracyMeters" : 35
+        }, {
+          "latE7" : 295356388,
+          "lngE7" : -950757141,
+          "timestampMs" : "1591229688000",
+          "accuracyMeters" : 11
+        }, {
+          "latE7" : 295354481,
+          "lngE7" : -950770416,
+          "timestampMs" : "1591229850365",
+          "accuracyMeters" : 15
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 295325185,
+        "longitudeE7" : -950722157,
+        "placeId" : "ChIJX1V5bGidQIYRBxu80OUoAks",
+        "address" : "1 Signature Point Dr\nLeague City, TX 77573\nUSA",
+        "name" : "Signature Point Apartments",
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        },
+        "locationConfidence" : 79.66355
+      },
+      "duration" : {
+        "startTimestampMs" : "1591230409000",
+        "endTimestampMs" : "1591232901331"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 295329086,
+          "longitudeE7" : -950735664,
+          "placeId" : "ChIJ6SXSp2mdQIYR1dTCZHscVuo",
+          "address" : "858 Signature Point Dr\nLeague City, TX 77573\nUSA",
+          "name" : "Gehan Homes",
+          "sourceInfo" : {
+            "deviceTag" : -1658417736
+          },
+          "locationConfidence" : 60.91502
+        },
+        "duration" : {
+          "startTimestampMs" : "1591230409000",
+          "endTimestampMs" : "1591232901331"
+        },
+        "placeConfidence" : "MEDIUM_CONFIDENCE",
+        "centerLatE7" : 295327429,
+        "centerLngE7" : -950735376,
+        "visitConfidence" : 91,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 295346932,
+          "longitudeE7" : -950715833,
+          "placeId" : "ChIJ4XzqwWidQIYRQlMCpNqjAnc",
+          "locationConfidence" : 7.0672884
+        }, {
+          "latitudeE7" : 295343848,
+          "longitudeE7" : -950751413,
+          "placeId" : "ChIJP1fyYGmdQIYR0O4tp3wktFs",
+          "locationConfidence" : 5.084094
+        }, {
+          "latitudeE7" : 295259348,
+          "longitudeE7" : -950733452,
+          "placeId" : "ChIJEdVsnsCcQIYRox9cC0J41SI",
+          "locationConfidence" : 2.755947
+        }, {
+          "latitudeE7" : 295477694,
+          "longitudeE7" : -952688250,
+          "placeId" : "ChIJPTF4HNuQQIYRHrVMU5jwaao",
+          "locationConfidence" : 1.0698612
+        }, {
+          "latitudeE7" : 295335626,
+          "longitudeE7" : -950725449,
+          "placeId" : "ChIJcaoxhrKdQIYRP5i2-NFvDyM",
+          "locationConfidence" : 1.0227689
+        }, {
+          "latitudeE7" : 295329720,
+          "longitudeE7" : -950746670,
+          "placeId" : "ChIJJXOdnWmdQIYRaRnnIqYnLOA",
+          "locationConfidence" : 0.99342006
+        }, {
+          "latitudeE7" : 295534888,
+          "longitudeE7" : -950549581,
+          "placeId" : "ChIJD70TjIZiP4YRXWKtWVmL0Ws",
+          "locationConfidence" : 0.6971333
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : 295327429,
+      "centerLngE7" : -950735376,
+      "visitConfidence" : 91,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 295325185,
+        "longitudeE7" : -950722157,
+        "placeId" : "ChIJX1V5bGidQIYRTDYUoT19kdY",
+        "locationConfidence" : 9.965211
+      }, {
+        "latitudeE7" : 295328886,
+        "longitudeE7" : -950736674,
+        "placeId" : "ChIJ59ysp2mdQIYRQeK3k1SoLrc",
+        "locationConfidence" : 4.2093973
+      }, {
+        "latitudeE7" : 295346932,
+        "longitudeE7" : -950715833,
+        "placeId" : "ChIJ4XzqwWidQIYRQlMCpNqjAnc",
+        "locationConfidence" : 2.3233511
+      }, {
+        "latitudeE7" : 295343848,
+        "longitudeE7" : -950751413,
+        "placeId" : "ChIJP1fyYGmdQIYR0O4tp3wktFs",
+        "locationConfidence" : 1.6713816
+      }, {
+        "latitudeE7" : 295259348,
+        "longitudeE7" : -950733452,
+        "placeId" : "ChIJEdVsnsCcQIYRox9cC0J41SI",
+        "locationConfidence" : 0.90600985
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 295326178,
+          "lngE7" : -950737229,
+          "timestampMs" : "1591230409000",
+          "accuracyMeters" : 6
+        }, {
+          "latE7" : 295326295,
+          "lngE7" : -950733912,
+          "timestampMs" : "1591230725083",
+          "accuracyMeters" : 33
+        }, {
+          "latE7" : 295324908,
+          "lngE7" : -950738830,
+          "timestampMs" : "1591231009000",
+          "accuracyMeters" : 18
+        }, {
+          "latE7" : 295326234,
+          "lngE7" : -950734193,
+          "timestampMs" : "1591231354346",
+          "accuracyMeters" : 36
+        }, {
+          "latE7" : 295324706,
+          "lngE7" : -950736488,
+          "timestampMs" : "1591231972000",
+          "accuracyMeters" : 6
+        }, {
+          "latE7" : 295327026,
+          "lngE7" : -950734990,
+          "timestampMs" : "1591232083890",
+          "accuracyMeters" : 27
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 295334592,
+        "longitudeE7" : -950741855,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 295371600,
+        "longitudeE7" : -950751229,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1591232901331",
+        "endTimestampMs" : "1591233361000"
+      },
+      "distance" : 422,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 87.98853158950806
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 8.90960693359375
+      }, {
+        "activityType" : "STILL",
+        "probability" : 1.2257848866283894
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.5314184818416834
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.4534057341516018
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.382601679302752
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.2647143555805087
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.1438457751646638
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.04035652964375913
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.018119829474017024
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.017175378161482513
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.009678711649030447
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.009308527660323307
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0052211533329682425
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 2.2881763470650185E-4
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 295335063,
+          "lngE7" : -950739746
+        }, {
+          "latE7" : 295344276,
+          "lngE7" : -950742416
+        }, {
+          "latE7" : 295371742,
+          "lngE7" : -950750656
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 295381029,
+        "longitudeE7" : -950748549,
+        "placeId" : "ChIJp0lWhW6dQIYRgjSIawgKlNM",
+        "address" : "828 Davis Rd\nLeague City, TX 77573\nUSA",
+        "name" : "828 Davis Rd",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        },
+        "locationConfidence" : 97.172035
+      },
+      "duration" : {
+        "startTimestampMs" : "1591233361000",
+        "endTimestampMs" : "1591370290829"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 295380901,
+      "centerLngE7" : -950748585,
+      "visitConfidence" : 86,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 295376648,
+        "longitudeE7" : -950771747,
+        "placeId" : "ChIJ2Yebp26dQIYRH3SjcAqSr6o",
+        "locationConfidence" : 1.1531676
+      }, {
+        "latitudeE7" : 295381029,
+        "longitudeE7" : -950748549,
+        "placeId" : "ChIJx0zFj26dQIYRYiAbAKOwin0",
+        "locationConfidence" : 0.76337045
+      }, {
+        "latitudeE7" : 295376687,
+        "longitudeE7" : -950771634,
+        "placeId" : "ChIJuUwORGydQIYRaf16u53hHMk",
+        "locationConfidence" : 0.22341864
+      }, {
+        "latitudeE7" : 295385339,
+        "longitudeE7" : -950754971,
+        "placeId" : "ChIJ3452KmydQIYR-dKDPXCcE_4",
+        "locationConfidence" : 0.18535574
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 295380717,
+        "longitudeE7" : -950749371,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 295050908,
+        "longitudeE7" : -950434771,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1591370290829",
+        "endTimestampMs" : "1591371039000"
+      },
+      "distance" : 6429,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 88.13210725784302
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 8.727142214775085
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.710626296699047
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.6612424273043871
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.27681475039571524
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.2474580891430378
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.08037015213631094
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.06062075262889266
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0421498465584591
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.02815621846821159
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.02814212639350444
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0029740107493125834
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0017071335605578497
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 4.590330718201585E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 2.888301651182701E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 295379867,
+          "lngE7" : -950753097
+        }, {
+          "latE7" : 295289936,
+          "lngE7" : -950712738
+        }, {
+          "latE7" : 295282688,
+          "lngE7" : -950709762
+        }, {
+          "latE7" : 295400676,
+          "lngE7" : -950638580
+        }, {
+          "latE7" : 295406455,
+          "lngE7" : -950633316
+        }, {
+          "latE7" : 295068244,
+          "lngE7" : -950438461
+        }, {
+          "latE7" : 295051002,
+          "lngE7" : -950434875
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 295282726,
+          "lngE7" : -950709839,
+          "timestampMs" : "1591370454000",
+          "accuracyMeters" : 3
+        }, {
+          "latE7" : 295405884,
+          "lngE7" : -950635147,
+          "timestampMs" : "1591370619000",
+          "accuracyMeters" : 20
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1591371111617",
+        "location" : {
+          "latitudeE7" : 295046850,
+          "longitudeE7" : -950433408,
+          "accuracyMetres" : 65
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 295047263,
+        "longitudeE7" : -950433724,
+        "placeId" : "ChIJjY0J18piP4YR6CwHhBcxqEE",
+        "address" : "2560 E League City Pkwy b\nLeague City, TX 77573\nUSA",
+        "name" : "Urgent Clinics Medical Care",
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        },
+        "locationConfidence" : 75.009476
+      },
+      "duration" : {
+        "startTimestampMs" : "1591371039000",
+        "endTimestampMs" : "1591376402000"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 295047420,
+      "centerLngE7" : -950434465,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 295045420,
+        "longitudeE7" : -950435580,
+        "placeId" : "ChIJmw4Sp2OdQIYR1YAmNmIyqhg",
+        "locationConfidence" : 22.977556
+      }, {
+        "latitudeE7" : 295047110,
+        "longitudeE7" : -950435000,
+        "placeId" : "ChIJYaAU-3B9P4YR-dI9QxzjZ_s",
+        "locationConfidence" : 0.93185055
+      }, {
+        "latitudeE7" : 295049620,
+        "longitudeE7" : -950430586,
+        "placeId" : "ChIJaU__8Ep9P4YReQBOBxczpAs",
+        "locationConfidence" : 0.8330346
+      }, {
+        "latitudeE7" : 295055427,
+        "longitudeE7" : -950389480,
+        "placeId" : "ChIJh2xhfjV9P4YRzSuaN22e8Dg",
+        "locationConfidence" : 0.13308187
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 295057534,
+        "longitudeE7" : -950429828,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 295369984,
+        "longitudeE7" : -950600151,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1591376402000",
+        "endTimestampMs" : "1591376792000"
+      },
+      "distance" : 4105,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 95.47613859176636
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 2.5240205228328705
+      }, {
+        "activityType" : "STILL",
+        "probability" : 1.3698428869247437
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.14507253654301167
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.134689814876765
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.12533410917967558
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.09008424822241068
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.05128011689521372
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.037234072806313634
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.03140433691442013
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.00913850381039083
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.003095431748079136
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.002137264164048247
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 5.189385319681605E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 8.26095671868643E-6
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 295057678,
+          "lngE7" : -950429992
+        }, {
+          "latE7" : 295235290,
+          "lngE7" : -950423660
+        }, {
+          "latE7" : 295370140,
+          "lngE7" : -950599975
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1591376840955",
+        "location" : {
+          "latitudeE7" : 295405401,
+          "longitudeE7" : -950618999,
+          "accuracyMetres" : 65
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 295386240,
+        "longitudeE7" : -950630960,
+        "placeId" : "ChIJpxJ8E2OdQIYRhuIuLpgUDN0",
+        "address" : "2951 Marina Bay Dr Suite B\nLeague City, TX 77573\nUSA",
+        "name" : "Randalls",
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        },
+        "locationConfidence" : 53.68822
+      },
+      "duration" : {
+        "startTimestampMs" : "1591376792000",
+        "endTimestampMs" : "1591377137000"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 295369984,
+      "centerLngE7" : -950600151,
+      "visitConfidence" : 87,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 295394626,
+        "longitudeE7" : -950627520,
+        "placeId" : "ChIJpxJ8E2OdQIYRVU5n9Hs3e0Q",
+        "locationConfidence" : 20.339827
+      }, {
+        "latitudeE7" : 295390620,
+        "longitudeE7" : -950609261,
+        "placeId" : "ChIJqTiQimKdQIYRNwg04F815qA",
+        "locationConfidence" : 6.8497195
+      }, {
+        "latitudeE7" : 295477694,
+        "longitudeE7" : -952688250,
+        "placeId" : "ChIJPTF4HNuQQIYRHrVMU5jwaao",
+        "locationConfidence" : 4.444184
+      }, {
+        "latitudeE7" : 295395484,
+        "longitudeE7" : -950627221,
+        "placeId" : "ChIJpxJ8E2OdQIYRDjSMWQNt7x8",
+        "locationConfidence" : 4.113037
+      }, {
+        "latitudeE7" : 295385880,
+        "longitudeE7" : -950622680,
+        "placeId" : "ChIJfXV6UmKdQIYRghXWwElGZU0",
+        "locationConfidence" : 3.281151
+      }, {
+        "latitudeE7" : 295393807,
+        "longitudeE7" : -950610531,
+        "placeId" : "ChIJrRwQimKdQIYR_27FD40OCTw",
+        "locationConfidence" : 2.6548927
+      }, {
+        "latitudeE7" : 295393910,
+        "longitudeE7" : -950629585,
+        "placeId" : "ChIJjQR8E2OdQIYRGhf4rs7ElRM",
+        "locationConfidence" : 2.3593812
+      }, {
+        "latitudeE7" : 295384462,
+        "longitudeE7" : -950636552,
+        "placeId" : "ChIJ09wwd2OdQIYRXc6h78P5obY",
+        "locationConfidence" : 1.5430937
+      }, {
+        "latitudeE7" : 295382214,
+        "longitudeE7" : -950611387,
+        "placeId" : "ChIJG3cDamKdQIYRZkeTqqR_BiA",
+        "locationConfidence" : 0.49829844
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 295408313,
+        "longitudeE7" : -950620931,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 295379828,
+        "longitudeE7" : -950752710,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1591377137000",
+        "endTimestampMs" : "1591377378000"
+      },
+      "distance" : 2535,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 93.79293322563171
+      }, {
+        "activityType" : "STILL",
+        "probability" : 3.04441899061203
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 2.482295036315918
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.14941125409677625
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.1373445149511099
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.13276842655614018
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.12593308929353952
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.04591955221258104
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0417066621594131
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.028388950158841908
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.011392001761123538
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.005331930879037827
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0014478426237474196
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 7.006266969256103E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 6.122141371633916E-6
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 295407981,
+          "lngE7" : -950619812
+        }, {
+          "latE7" : 295403938,
+          "lngE7" : -950637741
+        }, {
+          "latE7" : 295379753,
+          "lngE7" : -950753097
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1591377483000",
+        "location" : {
+          "latitudeE7" : 295380584,
+          "longitudeE7" : -950749166,
+          "accuracyMetres" : 18
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 295381029,
+        "longitudeE7" : -950748549,
+        "placeId" : "ChIJp0lWhW6dQIYRgjSIawgKlNM",
+        "address" : "828 Davis Rd\nLeague City, TX 77573\nUSA",
+        "name" : "828 Davis Rd",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        },
+        "locationConfidence" : 97.115234
+      },
+      "duration" : {
+        "startTimestampMs" : "1591377378000",
+        "endTimestampMs" : "1591629196192"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 295381272,
+      "centerLngE7" : -950748505,
+      "visitConfidence" : 88,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 295381029,
+        "longitudeE7" : -950748549,
+        "placeId" : "ChIJx0zFj26dQIYRYiAbAKOwin0",
+        "locationConfidence" : 1.5686806
+      }, {
+        "latitudeE7" : 295376648,
+        "longitudeE7" : -950771747,
+        "placeId" : "ChIJ2Yebp26dQIYRH3SjcAqSr6o",
+        "locationConfidence" : 0.5632685
+      }, {
+        "latitudeE7" : 295385339,
+        "longitudeE7" : -950754971,
+        "placeId" : "ChIJ3452KmydQIYR-dKDPXCcE_4",
+        "locationConfidence" : 0.17613173
+      }, {
+        "latitudeE7" : 295325185,
+        "longitudeE7" : -950722157,
+        "placeId" : "ChIJX1V5bGidQIYRBxu80OUoAks",
+        "locationConfidence" : 0.13410543
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 295376750,
+        "longitudeE7" : -950751987,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 295443113,
+        "longitudeE7" : -951266682,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1591629196192",
+        "endTimestampMs" : "1591629924000"
+      },
+      "distance" : 6455,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 97.8363573551178
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.9069054387509823
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.3964661620557308
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.3396623767912388
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.11292648268863559
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.10962566593661904
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.07818874437361956
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.06808104226365685
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.06498675793409348
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.06192143773660064
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.01983712863875553
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0021019106497988105
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0020905052224406973
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 8.394315955229104E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.0426519736483897E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 295376720,
+          "lngE7" : -950752182
+        }, {
+          "latE7" : 295432472,
+          "lngE7" : -951105957
+        }, {
+          "latE7" : 295443725,
+          "lngE7" : -951267318
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1591629924000",
+        "location" : {
+          "latitudeE7" : 295443113,
+          "longitudeE7" : -951266682,
+          "accuracyMetres" : 25
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 295449865,
+        "longitudeE7" : -951262906,
+        "placeId" : "ChIJh0-iflqdQIYReC8use0j-y0",
+        "address" : "200 Blossom St\nWebster, TX 77598\nUSA",
+        "name" : "UTMB Health Clear Lake Campus Hospital",
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        },
+        "locationConfidence" : 98.31428
+      },
+      "duration" : {
+        "startTimestampMs" : "1591629924000",
+        "endTimestampMs" : "1591633200055"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 295446279,
+          "longitudeE7" : -951268421,
+          "placeId" : "ChIJYZgDFIycQIYRT1T_S9vYYSA",
+          "address" : "250 Blossom St # 100\nWebster, TX 77598\nUSA",
+          "name" : "Icon Wellness Center and Medical Spa",
+          "sourceInfo" : {
+            "deviceTag" : -1658417736
+          },
+          "locationConfidence" : 36.934322
+        },
+        "duration" : {
+          "startTimestampMs" : "1591629924000",
+          "endTimestampMs" : "1591632629734"
+        },
+        "placeConfidence" : "LOW_CONFIDENCE",
+        "centerLatE7" : 295445247,
+        "centerLngE7" : -951267726,
+        "visitConfidence" : 94,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 295446805,
+          "longitudeE7" : -951268655,
+          "placeId" : "ChIJYZgDFIycQIYR2SgG82oAf50",
+          "locationConfidence" : 29.035465
+        }, {
+          "latitudeE7" : 295447007,
+          "longitudeE7" : -951268084,
+          "placeId" : "ChIJnxofDoycQIYRlzlYf6__Ya4",
+          "locationConfidence" : 18.249926
+        }, {
+          "latitudeE7" : 295447007,
+          "longitudeE7" : -951268084,
+          "placeId" : "ChIJYZgDFIycQIYRiWLFGXpbP38",
+          "locationConfidence" : 10.580005
+        }, {
+          "latitudeE7" : 295446279,
+          "longitudeE7" : -951268421,
+          "placeId" : "ChIJYZgDFIycQIYR2EoyBT7dqKg",
+          "locationConfidence" : 1.1503478
+        }, {
+          "latitudeE7" : 295447007,
+          "longitudeE7" : -951268084,
+          "placeId" : "ChIJYZgDFIycQIYR1Vd4uPyiyNg",
+          "locationConfidence" : 0.7240219
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : 295445247,
+      "centerLngE7" : -951267726,
+      "visitConfidence" : 94,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 295408914,
+        "longitudeE7" : -951271655,
+        "placeId" : "ChIJAw22Co6cQIYRMBBfX-8AzBQ",
+        "locationConfidence" : 0.84823525
+      }, {
+        "latitudeE7" : 295427086,
+        "longitudeE7" : -951293991,
+        "placeId" : "ChIJYZgDFIycQIYRAG3KVgxEF0g",
+        "locationConfidence" : 0.778223
+      }, {
+        "latitudeE7" : 295435654,
+        "longitudeE7" : -951274902,
+        "placeId" : "ChIJFY_-nY6cQIYRh4YPXttx9Ic",
+        "locationConfidence" : 0.046228763
+      }, {
+        "latitudeE7" : 295439703,
+        "longitudeE7" : -951245690,
+        "placeId" : "ChIJE3DCCkqCQIYRUewsCT33IhM",
+        "locationConfidence" : 0.002591316
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 295445531,
+        "longitudeE7" : -951268464,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 295380951,
+        "longitudeE7" : -950748547,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1591633200055",
+        "endTimestampMs" : "1591634140729"
+      },
+      "distance" : 6611,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 97.2567081451416
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.400764286518097
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.8229772560298443
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.15212801517918706
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.11182287707924843
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.06686950218863785
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.05509963957592845
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.05239502643235028
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.03456614795140922
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.023450427397619933
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.017508417658973485
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.002535931344027631
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.001585169229656458
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0015720745068392716
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.2596113663221331E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 295443954,
+          "lngE7" : -951266937
+        }, {
+          "latE7" : 295433902,
+          "lngE7" : -951263732
+        }, {
+          "latE7" : 295426006,
+          "lngE7" : -951264953
+        }, {
+          "latE7" : 295453872,
+          "lngE7" : -951066741
+        }, {
+          "latE7" : 295379905,
+          "lngE7" : -950753097
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 295423031,
+          "lngE7" : -951262436,
+          "timestampMs" : "1591633321463",
+          "accuracyMeters" : 54
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1591634182000",
+        "location" : {
+          "latitudeE7" : 295381001,
+          "longitudeE7" : -950748747,
+          "accuracyMetres" : 27
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 295381029,
+        "longitudeE7" : -950748549,
+        "placeId" : "ChIJp0lWhW6dQIYRgjSIawgKlNM",
+        "address" : "828 Davis Rd\nLeague City, TX 77573\nUSA",
+        "name" : "828 Davis Rd",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        },
+        "locationConfidence" : 98.18939
+      },
+      "duration" : {
+        "startTimestampMs" : "1591634140729",
+        "endTimestampMs" : "1591741059370"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 295381230,
+      "centerLngE7" : -950748718,
+      "visitConfidence" : 85,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 295381029,
+        "longitudeE7" : -950748549,
+        "placeId" : "ChIJx0zFj26dQIYRYiAbAKOwin0",
+        "locationConfidence" : 0.7861359
+      }, {
+        "latitudeE7" : 295376648,
+        "longitudeE7" : -950771747,
+        "placeId" : "ChIJ2Yebp26dQIYRH3SjcAqSr6o",
+        "locationConfidence" : 0.5542585
+      }, {
+        "latitudeE7" : 295376687,
+        "longitudeE7" : -950771634,
+        "placeId" : "ChIJuUwORGydQIYRaf16u53hHMk",
+        "locationConfidence" : 0.15276766
+      }, {
+        "latitudeE7" : 295385339,
+        "longitudeE7" : -950754971,
+        "placeId" : "ChIJ3452KmydQIYR-dKDPXCcE_4",
+        "locationConfidence" : 0.10716199
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 295380760,
+        "longitudeE7" : -950748700,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 295381070,
+        "longitudeE7" : -950748813,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1591741059370",
+        "endTimestampMs" : "1591742876889"
+      },
+      "distance" : 1745,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 78.14950346946716
+      }, {
+        "activityType" : "STILL",
+        "probability" : 10.199720412492752
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 6.474842876195908
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 3.2613448798656464
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.9470479562878609
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.38617991376668215
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.25192222092300653
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.11662754695862532
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.08821748779155314
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.06050569354556501
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.04585713322740048
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.008240146416937932
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.006993375427555293
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.002894994213420432
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.103288923332002E-4
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 295379753,
+          "lngE7" : -950753097
+        }, {
+          "latE7" : 295393466,
+          "lngE7" : -950757293
+        }, {
+          "latE7" : 295411167,
+          "lngE7" : -950760421
+        }, {
+          "latE7" : 295385055,
+          "lngE7" : -950763854
+        }, {
+          "latE7" : 295380115,
+          "lngE7" : -950753173
+        }, {
+          "latE7" : 295355892,
+          "lngE7" : -950745925
+        }, {
+          "latE7" : 295353641,
+          "lngE7" : -950775527
+        }, {
+          "latE7" : 295380077,
+          "lngE7" : -950753173
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 295411358,
+          "lngE7" : -950759277,
+          "timestampMs" : "1591741504479",
+          "accuracyMeters" : 34
+        }, {
+          "latE7" : 295383854,
+          "lngE7" : -950762634,
+          "timestampMs" : "1591741753354",
+          "accuracyMeters" : 21
+        }, {
+          "latE7" : 295377979,
+          "lngE7" : -950762482,
+          "timestampMs" : "1591741874500",
+          "accuracyMeters" : 50
+        }, {
+          "latE7" : 295355473,
+          "lngE7" : -950772171,
+          "timestampMs" : "1591742326557",
+          "accuracyMeters" : 22
+        }, {
+          "latE7" : 295347862,
+          "lngE7" : -950759888,
+          "timestampMs" : "1591742486378",
+          "accuracyMeters" : 65
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 295381029,
+        "longitudeE7" : -950748549,
+        "placeId" : "ChIJp0lWhW6dQIYRgjSIawgKlNM",
+        "address" : "828 Davis Rd\nLeague City, TX 77573\nUSA",
+        "name" : "828 Davis Rd",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        },
+        "locationConfidence" : 98.287025
+      },
+      "duration" : {
+        "startTimestampMs" : "1591742876889",
+        "endTimestampMs" : "1591790266000"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 295381231,
+      "centerLngE7" : -950748483,
+      "visitConfidence" : 89,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 295381029,
+        "longitudeE7" : -950748549,
+        "placeId" : "ChIJx0zFj26dQIYRYiAbAKOwin0",
+        "locationConfidence" : 0.7180324
+      }, {
+        "latitudeE7" : 295376648,
+        "longitudeE7" : -950771747,
+        "placeId" : "ChIJ2Yebp26dQIYRH3SjcAqSr6o",
+        "locationConfidence" : 0.5530478
+      }, {
+        "latitudeE7" : 295376687,
+        "longitudeE7" : -950771634,
+        "placeId" : "ChIJuUwORGydQIYRaf16u53hHMk",
+        "locationConfidence" : 0.13168316
+      }, {
+        "latitudeE7" : 295385339,
+        "longitudeE7" : -950754971,
+        "placeId" : "ChIJ3452KmydQIYR-dKDPXCcE_4",
+        "locationConfidence" : 0.12560807
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 295380428,
+        "longitudeE7" : -950749304,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 293245066,
+        "longitudeE7" : -952603282,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1591790266000",
+        "endTimestampMs" : "1591792411463"
+      },
+      "distance" : 32695,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 98.53770732879639
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.5639811977744102
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.46526133082807064
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.21796876098960638
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.0583789951633662
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.03728854353539646
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.036621445906348526
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.03518422308843583
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.01762880419846624
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.014316049055196345
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.012481077283155173
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.001985639755730517
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 6.19482261754456E-4
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 5.847452939633513E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 9.41066886639419E-6
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 295344676,
+          "lngE7" : -950742492
+        }, {
+          "latE7" : 294164524,
+          "lngE7" : -952293777
+        }, {
+          "latE7" : 293244304,
+          "lngE7" : -952602005
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1591792531470",
+        "location" : {
+          "latitudeE7" : 293243147,
+          "longitudeE7" : -952599803,
+          "accuracyMetres" : 33
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 293244057,
+        "longitudeE7" : -952600250,
+        "placeId" : "ChIJ43ttui-IQIYRp31vCgOoN1U",
+        "address" : "12 FM 2403\nAlvin, TX 77511\nUSA",
+        "name" : "12 FM 2403",
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        },
+        "locationConfidence" : 54.39268
+      },
+      "duration" : {
+        "startTimestampMs" : "1591792411463",
+        "endTimestampMs" : "1591826840000"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 293243486,
+      "centerLngE7" : -952600229,
+      "visitConfidence" : 86,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 293249564,
+        "longitudeE7" : -952605870,
+        "placeId" : "ChIJeey4lT2PQIYRKciiva65ZLM",
+        "locationConfidence" : 45.60732
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 293239390,
+        "longitudeE7" : -952607033,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 295334101,
+        "longitudeE7" : -951392649,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1591826840000",
+        "endTimestampMs" : "1591828585915"
+      },
+      "distance" : 27489,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 97.8430688381195
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.9876514784991741
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.9182626381516457
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.10197694646194577
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.03379640111234039
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.028937606839463115
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.02860835229512304
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.027267157565802336
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.01619828399270773
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.006439085700549185
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.004570114106172696
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.002192626561736688
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 7.452449153788621E-4
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 2.7455162125988863E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 6.119815765259773E-6
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 293239307,
+          "lngE7" : -952606964
+        }, {
+          "latE7" : 294201755,
+          "lngE7" : -952280349
+        }, {
+          "latE7" : 295267887,
+          "lngE7" : -951342391
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1591828487249",
+        "location" : {
+          "latitudeE7" : 295265447,
+          "longitudeE7" : -951345451,
+          "accuracyMetres" : 89
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 295334777,
+        "longitudeE7" : -951397705,
+        "placeId" : "ChIJHyMAvUidQIYRM3aEzCTigTI",
+        "address" : "1310 Jasmine Ave\nWebster, TX 77598\nUSA",
+        "name" : "Costco Wholesale",
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        },
+        "locationConfidence" : 88.4734
+      },
+      "duration" : {
+        "startTimestampMs" : "1591828585915",
+        "endTimestampMs" : "1591831109315"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 295334665,
+      "centerLngE7" : -951391966,
+      "visitConfidence" : 93,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 295337395,
+        "longitudeE7" : -951378508,
+        "placeId" : "ChIJIaWTL3KdQIYRFlYQP06Dwl0",
+        "locationConfidence" : 10.3392725
+      }, {
+        "latitudeE7" : 295355950,
+        "longitudeE7" : -951384946,
+        "placeId" : "ChIJmydmd5ycQIYRqHC0nyY0c2U",
+        "locationConfidence" : 0.9550718
+      }, {
+        "latitudeE7" : 295341063,
+        "longitudeE7" : -951380372,
+        "placeId" : "ChIJI8uunK-dQIYRk9D6moIPZqE",
+        "locationConfidence" : 0.14503796
+      }, {
+        "latitudeE7" : 295355950,
+        "longitudeE7" : -951414180,
+        "placeId" : "ChIJBwEmUZycQIYRYj2muk7AohA",
+        "locationConfidence" : 0.01998229
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 295334843,
+        "longitudeE7" : -951391377,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 295381209,
+        "longitudeE7" : -950748707,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1591831109315",
+        "endTimestampMs" : "1591832164322"
+      },
+      "distance" : 7585,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 97.90689945220947
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.9472530335187912
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.5776289384812117
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.21593875717371702
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.08958986145444214
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.08271970436908305
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0678393233101815
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.046060484601184726
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.02732778957579285
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.02157869894290343
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.012097584112780169
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.002493797364877537
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.001284301106352359
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.001284298559767194
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 7.819877367865047E-6
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 295339126,
+          "lngE7" : -951385040
+        }, {
+          "latE7" : 295285682,
+          "lngE7" : -951306533
+        }, {
+          "latE7" : 295370407,
+          "lngE7" : -951188583
+        }, {
+          "latE7" : 295237388,
+          "lngE7" : -950835494
+        }, {
+          "latE7" : 295380153,
+          "lngE7" : -950753173
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 295369949,
+          "lngE7" : -951188812,
+          "timestampMs" : "1591831512432",
+          "accuracyMeters" : 5
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1591832762474",
+        "location" : {
+          "latitudeE7" : 295381173,
+          "longitudeE7" : -950748436,
+          "accuracyMetres" : 36
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 295381029,
+        "longitudeE7" : -950748549,
+        "placeId" : "ChIJp0lWhW6dQIYRgjSIawgKlNM",
+        "address" : "828 Davis Rd\nLeague City, TX 77573\nUSA",
+        "name" : "828 Davis Rd",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        },
+        "locationConfidence" : 96.03896
+      },
+      "duration" : {
+        "startTimestampMs" : "1591832164322",
+        "endTimestampMs" : "1591885218518"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 295381282,
+      "centerLngE7" : -950748482,
+      "visitConfidence" : 92,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 295381029,
+        "longitudeE7" : -950748549,
+        "placeId" : "ChIJx0zFj26dQIYRYiAbAKOwin0",
+        "locationConfidence" : 2.8357499
+      }, {
+        "latitudeE7" : 295376648,
+        "longitudeE7" : -950771747,
+        "placeId" : "ChIJ2Yebp26dQIYRH3SjcAqSr6o",
+        "locationConfidence" : 0.6245607
+      }, {
+        "latitudeE7" : 295385339,
+        "longitudeE7" : -950754971,
+        "placeId" : "ChIJ3452KmydQIYR-dKDPXCcE_4",
+        "locationConfidence" : 0.13541465
+      }, {
+        "latitudeE7" : 295376687,
+        "longitudeE7" : -950771634,
+        "placeId" : "ChIJuUwORGydQIYRaf16u53hHMk",
+        "locationConfidence" : 0.10669466
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 295380814,
+        "longitudeE7" : -950754683,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 293241289,
+        "longitudeE7" : -952599165,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1591885218518",
+        "endTimestampMs" : "1591887613880"
+      },
+      "distance" : 34413,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 96.58446311950684
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 1.3468838296830654
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.9724610485136509
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.7703764364123344
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.09619603515602648
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.08218385628424585
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.04632226482499391
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.04041886131744832
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.02047041052719578
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.019320251885801554
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.015045047621242702
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.004378403536975384
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0011200289009138942
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 3.48984121956164E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.900593247228244E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 295381107,
+          "lngE7" : -950753479
+        }, {
+          "latE7" : 294164524,
+          "lngE7" : -952293777
+        }, {
+          "latE7" : 293240585,
+          "lngE7" : -952601470
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1591887535842",
+        "location" : {
+          "latitudeE7" : 293278892,
+          "longitudeE7" : -952594328,
+          "accuracyMetres" : 29
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 293244057,
+        "longitudeE7" : -952600250,
+        "placeId" : "ChIJ43ttui-IQIYRp31vCgOoN1U",
+        "address" : "12 FM 2403\nAlvin, TX 77511\nUSA",
+        "name" : "12 FM 2403",
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        },
+        "locationConfidence" : 60.870605
+      },
+      "duration" : {
+        "startTimestampMs" : "1591887613880",
+        "endTimestampMs" : "1591913377811"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 293241966,
+      "centerLngE7" : -952599337,
+      "visitConfidence" : 93,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 293249564,
+        "longitudeE7" : -952605870,
+        "placeId" : "ChIJeey4lT2PQIYRKciiva65ZLM",
+        "locationConfidence" : 38.90883
+      }, {
+        "latitudeE7" : 293249029,
+        "longitudeE7" : -952594686,
+        "placeId" : "ChIJbd64zi18P4YRTyNvelYGQDo",
+        "locationConfidence" : 0.22056252
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 293245287,
+        "longitudeE7" : -952603221,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 294242107,
+        "longitudeE7" : -952435007,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1591913377811",
+        "endTimestampMs" : "1591914458985"
+      },
+      "distance" : 11381,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 86.98393702507019
+      }, {
+        "activityType" : "STILL",
+        "probability" : 10.835390537977219
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.3823853805661201
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.2507246332243085
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.1829196815378964
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.15495149418711662
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0991969951428473
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.06653642631135881
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.022699826513417065
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.010667377500794828
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.005179761865292676
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.003295378337497823
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0018846896637114696
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 1.990354576264508E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 3.357958178185072E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 293244495,
+          "lngE7" : -952601852
+        }, {
+          "latE7" : 294007682,
+          "lngE7" : -952451629
+        }, {
+          "latE7" : 293999767,
+          "lngE7" : -952466430
+        }, {
+          "latE7" : 293959007,
+          "lngE7" : -952490844
+        }, {
+          "latE7" : 294055671,
+          "lngE7" : -952422409
+        }, {
+          "latE7" : 294088115,
+          "lngE7" : -952436599
+        }, {
+          "latE7" : 294242210,
+          "lngE7" : -952432479
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 294001751,
+          "lngE7" : -952464600,
+          "timestampMs" : "1591913964879",
+          "accuracyMeters" : 64
+        }, {
+          "latE7" : 294056511,
+          "lngE7" : -952419662,
+          "timestampMs" : "1591914084972",
+          "accuracyMeters" : 17
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1591914913959",
+        "location" : {
+          "latitudeE7" : 294243954,
+          "longitudeE7" : -952443102,
+          "accuracyMetres" : 61
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 294242113,
+        "longitudeE7" : -952438761,
+        "placeId" : "ChIJI7RwxEaPQIYRyT5FzMzZ7xI",
+        "address" : "114 N Gordon St\nAlvin, TX 77511\nUSA",
+        "name" : "Gordon Street Tavern",
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        },
+        "locationConfidence" : 92.84499
+      },
+      "duration" : {
+        "startTimestampMs" : "1591914458985",
+        "endTimestampMs" : "1591920827662"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 294242365,
+      "centerLngE7" : -952438453,
+      "visitConfidence" : 95,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 294238472,
+        "longitudeE7" : -952441009,
+        "placeId" : "ChIJ3wWlS_ZeQIYRyZF4RDfrlFk",
+        "semanticType" : "TYPE_WORK",
+        "locationConfidence" : 4.6393785
+      }, {
+        "latitudeE7" : 294240281,
+        "longitudeE7" : -952439086,
+        "placeId" : "ChIJmdxuwUaPQIYRAvsql2VPesY",
+        "locationConfidence" : 1.0978183
+      }, {
+        "latitudeE7" : 294244568,
+        "longitudeE7" : -952432781,
+        "placeId" : "ChIJYfgLy0aPQIYR5Yzycae_Log",
+        "locationConfidence" : 0.5324458
+      }, {
+        "latitudeE7" : 294241014,
+        "longitudeE7" : -952435479,
+        "placeId" : "ChIJL8bGv0aPQIYR9nkYoTcQIzI",
+        "locationConfidence" : 0.17450859
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 294245457,
+        "longitudeE7" : -952437299,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 295197449,
+        "longitudeE7" : -950756973,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1591920827662",
+        "endTimestampMs" : "1591922627774"
+      },
+      "distance" : 19818,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 97.23737835884094
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.0555749759078026
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.9285600855946541
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.22074896842241287
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.17713000997900963
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.13189887395128608
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0877886253874749
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.06413209484890103
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.059642631094902754
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.015829499170649797
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.009818316175369546
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.005835756746819243
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.004676594471675344
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 9.564364518155344E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 3.4778253166223294E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 294245967,
+          "lngE7" : -952437057
+        }, {
+          "latE7" : 294819030,
+          "lngE7" : -952189712
+        }, {
+          "latE7" : 295012302,
+          "lngE7" : -951215515
+        }, {
+          "latE7" : 295030364,
+          "lngE7" : -951140594
+        }, {
+          "latE7" : 295196571,
+          "lngE7" : -950756301
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 295009861,
+          "lngE7" : -951215210,
+          "timestampMs" : "1591922060819",
+          "accuracyMeters" : 31
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1591922602846",
+        "location" : {
+          "latitudeE7" : 295193325,
+          "longitudeE7" : -950769717,
+          "accuracyMetres" : 40
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 295196179,
+        "longitudeE7" : -950755607,
+        "placeId" : "ChIJ6YBTCkadQIYRhaLbnKA6h1Q",
+        "address" : "250 S Egret Bay Blvd\nLeague City, TX 77573\nUSA",
+        "name" : "Kroger",
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        },
+        "locationConfidence" : 96.63663
+      },
+      "duration" : {
+        "startTimestampMs" : "1591922627774",
+        "endTimestampMs" : "1591924090296"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 295193850,
+      "centerLngE7" : -950755236,
+      "visitConfidence" : 91,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 295213950,
+        "longitudeE7" : -950756286,
+        "placeId" : "ChIJxyDP3UWdQIYRK3OTR9J2wdg",
+        "locationConfidence" : 3.171572
+      }, {
+        "latitudeE7" : 295210515,
+        "longitudeE7" : -950727470,
+        "placeId" : "ChIJTdxVBkWdQIYRUhMyYA-TIWw",
+        "locationConfidence" : 0.19000944
+      }, {
+        "latitudeE7" : 295183270,
+        "longitudeE7" : -950733751,
+        "placeId" : "ChIJL4RzikWdQIYR8NPKspsARm4",
+        "locationConfidence" : 3.9152874E-4
+      }, {
+        "latitudeE7" : 295216615,
+        "longitudeE7" : -950777146,
+        "placeId" : "ChIJKxKVVkadQIYRP0Azy0-k-Nw",
+        "locationConfidence" : 3.8193012E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 295194186,
+        "longitudeE7" : -950761238,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 295381425,
+        "longitudeE7" : -950749103,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1591924090296",
+        "endTimestampMs" : "1591924395873"
+      },
+      "distance" : 2151,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 96.66934013366699
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.1895413510501385
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.8820535615086555
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.6624908186495304
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.20086225122213364
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.18128916854038835
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0715614587534219
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.05248637171462178
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.036199952592141926
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0341753737302497
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.015663800877518952
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0018316188288736157
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.001629074540687725
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 8.563127266825177E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.4590540331482771E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 295194396,
+          "lngE7" : -950760879
+        }, {
+          "latE7" : 295247821,
+          "lngE7" : -950751342
+        }, {
+          "latE7" : 295380477,
+          "lngE7" : -950753326
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1591924478113",
+        "location" : {
+          "latitudeE7" : 295381183,
+          "longitudeE7" : -950748463,
+          "accuracyMetres" : 73
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 295381029,
+        "longitudeE7" : -950748549,
+        "placeId" : "ChIJp0lWhW6dQIYRgjSIawgKlNM",
+        "address" : "828 Davis Rd\nLeague City, TX 77573\nUSA",
+        "name" : "828 Davis Rd",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        },
+        "locationConfidence" : 96.75715
+      },
+      "duration" : {
+        "startTimestampMs" : "1591924395873",
+        "endTimestampMs" : "1591965110726"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 295381455,
+      "centerLngE7" : -950748638,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 295381029,
+        "longitudeE7" : -950748549,
+        "placeId" : "ChIJx0zFj26dQIYRYiAbAKOwin0",
+        "locationConfidence" : 2.1787422
+      }, {
+        "latitudeE7" : 295376648,
+        "longitudeE7" : -950771747,
+        "placeId" : "ChIJ2Yebp26dQIYRH3SjcAqSr6o",
+        "locationConfidence" : 0.5986501
+      }, {
+        "latitudeE7" : 295385339,
+        "longitudeE7" : -950754971,
+        "placeId" : "ChIJ3452KmydQIYR-dKDPXCcE_4",
+        "locationConfidence" : 0.14141932
+      }, {
+        "latitudeE7" : 295376687,
+        "longitudeE7" : -950771634,
+        "placeId" : "ChIJuUwORGydQIYRaf16u53hHMk",
+        "locationConfidence" : 0.13724385
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 295381381,
+        "longitudeE7" : -950748481,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 293245742,
+        "longitudeE7" : -952604872,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1591965110726",
+        "endTimestampMs" : "1591967298357"
+      },
+      "distance" : 34678,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 97.45540618896484
+      }, {
+        "activityType" : "STILL",
+        "probability" : 1.1817469261586666
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.8596441708505154
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.1260206801816821
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.1016497379168868
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.08873653714545071
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.06304581183940172
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.056450889678671956
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.02868504961952567
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.022327825718093663
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.01132911493186839
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0025088478651014157
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.002236772888863925
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 1.9998117295472184E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.653502010867669E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 295380268,
+          "lngE7" : -950753250
+        }, {
+          "latE7" : 294827861,
+          "lngE7" : -950665664
+        }, {
+          "latE7" : 294400177,
+          "lngE7" : -951012573
+        }, {
+          "latE7" : 294033946,
+          "lngE7" : -952386169
+        }, {
+          "latE7" : 293244132,
+          "lngE7" : -952602157
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 294403744,
+          "lngE7" : -951011505,
+          "timestampMs" : "1591966082935",
+          "accuracyMeters" : 42
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1591967452217",
+        "location" : {
+          "latitudeE7" : 293241944,
+          "longitudeE7" : -952600851,
+          "accuracyMetres" : 56
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 293244057,
+        "longitudeE7" : -952600250,
+        "placeId" : "ChIJ43ttui-IQIYRp31vCgOoN1U",
+        "address" : "12 FM 2403\nAlvin, TX 77511\nUSA",
+        "name" : "12 FM 2403",
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        },
+        "locationConfidence" : 54.091354
+      },
+      "duration" : {
+        "startTimestampMs" : "1591967298357",
+        "endTimestampMs" : "1591980135238"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 293243546,
+      "centerLngE7" : -952600546,
+      "visitConfidence" : 88,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 293249564,
+        "longitudeE7" : -952605870,
+        "placeId" : "ChIJeey4lT2PQIYRKciiva65ZLM",
+        "locationConfidence" : 45.668266
+      }, {
+        "latitudeE7" : 293249029,
+        "longitudeE7" : -952594686,
+        "placeId" : "ChIJbd64zi18P4YRTyNvelYGQDo",
+        "locationConfidence" : 0.24037872
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 293245734,
+        "longitudeE7" : -952605869,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 294078510,
+        "longitudeE7" : -952322021,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1591980135238",
+        "endTimestampMs" : "1591980707779"
+      },
+      "distance" : 10146,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 95.06828784942627
+      }, {
+        "activityType" : "STILL",
+        "probability" : 2.98216063529253
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.3173103332519531
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.19735360983759165
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.12297824723646045
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.07460147025994956
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.07399146561510861
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.06774347275495529
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.06133100250735879
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.016989240248221904
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.010253655636915937
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.004054099917993881
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0017404747268301435
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0011866502063639928
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.7348395431326935E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 293244953,
+          "lngE7" : -952608489
+        }, {
+          "latE7" : 294047069,
+          "lngE7" : -952355270
+        }, {
+          "latE7" : 294077205,
+          "lngE7" : -952322540
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1591980737341",
+        "location" : {
+          "latitudeE7" : 294079282,
+          "longitudeE7" : -952323595,
+          "accuracyMetres" : 71
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 294069209,
+        "longitudeE7" : -952320655,
+        "placeId" : "ChIJmQKIg6yIQIYRgEqeFfCzmAc",
+        "address" : "1701 Fairway Dr\nAlvin, TX 77511\nUSA",
+        "name" : "Fairway Plaza",
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        },
+        "locationConfidence" : 97.24433
+      },
+      "duration" : {
+        "startTimestampMs" : "1591980707779",
+        "endTimestampMs" : "1591983077781"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 294078588,
+          "longitudeE7" : -952323034,
+          "placeId" : "ChIJY_num1KJQIYRWTFaTbWg00U",
+          "address" : "1701 Fairway Dr #2a\nAlvin, TX 77511\nUSA",
+          "name" : "Let's Pho",
+          "sourceInfo" : {
+            "deviceTag" : -1658417736
+          },
+          "locationConfidence" : 39.10372
+        },
+        "duration" : {
+          "startTimestampMs" : "1591980707779",
+          "endTimestampMs" : "1591983077781"
+        },
+        "placeConfidence" : "MEDIUM_CONFIDENCE",
+        "centerLatE7" : 294078900,
+        "centerLngE7" : -952322787,
+        "visitConfidence" : 88,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 294078020,
+          "longitudeE7" : -952320445,
+          "placeId" : "ChIJc9MUw6yIQIYResajy6b0FNQ",
+          "locationConfidence" : 23.152622
+        }, {
+          "latitudeE7" : 294079439,
+          "longitudeE7" : -952323225,
+          "placeId" : "ChIJc9MUw6yIQIYRB-l7l2ZGpuI",
+          "locationConfidence" : 19.895094
+        }, {
+          "latitudeE7" : 294078537,
+          "longitudeE7" : -952321897,
+          "placeId" : "ChIJGbQ2qayIQIYRielKbkgcJqk",
+          "locationConfidence" : 10.292002
+        }, {
+          "latitudeE7" : 294079166,
+          "longitudeE7" : -952322089,
+          "placeId" : "ChIJc9MUw6yIQIYRYi7omYuwalA",
+          "locationConfidence" : 3.6898828
+        }, {
+          "latitudeE7" : 294081980,
+          "longitudeE7" : -952326017,
+          "placeId" : "ChIJI7ORsqyIQIYRFgijr0PBno4",
+          "locationConfidence" : 0.47600335
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : 294078900,
+      "centerLngE7" : -952322822,
+      "visitConfidence" : 88,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 294072173,
+        "longitudeE7" : -952346849,
+        "placeId" : "ChIJW-5ZwWSPQIYREEz8Jjo0zRA",
+        "locationConfidence" : 1.0287921
+      }, {
+        "latitudeE7" : 294059241,
+        "longitudeE7" : -952337596,
+        "placeId" : "ChIJ--k0eXqPQIYRllqPVyD8x4M",
+        "locationConfidence" : 0.8592024
+      }, {
+        "latitudeE7" : 294085094,
+        "longitudeE7" : -952339365,
+        "placeId" : "ChIJHYd-fWSPQIYRina6ItnYRqI",
+        "locationConfidence" : 0.40460056
+      }, {
+        "latitudeE7" : 294075090,
+        "longitudeE7" : -952342650,
+        "placeId" : "ChIJHReaiGSPQIYRefVye87PZHE",
+        "locationConfidence" : 0.39848036
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 294079293,
+        "longitudeE7" : -952323596,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 293246242,
+        "longitudeE7" : -952606036,
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1591983077781",
+        "endTimestampMs" : "1591984100127"
+      },
+      "distance" : 9659,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 96.82969450950623
+      }, {
+        "activityType" : "STILL",
+        "probability" : 1.5357480384409428
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.983589980751276
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.30618347227573395
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.10500308126211166
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.06363522261381149
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.05936508532613516
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.057035667123273015
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.04167491279076785
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.008277764572994784
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.004012737917946652
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0034319724363740534
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.001480702940170886
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 8.541046554455534E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.318598208399635E-5
+      } ]
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 293244057,
+        "longitudeE7" : -952600250,
+        "placeId" : "ChIJ43ttui-IQIYRp31vCgOoN1U",
+        "address" : "12 FM 2403\nAlvin, TX 77511\nUSA",
+        "name" : "12 FM 2403",
+        "sourceInfo" : {
+          "deviceTag" : -1658417736
+        },
+        "locationConfidence" : 60.62675
+      },
+      "duration" : {
+        "startTimestampMs" : "1591984100127",
+        "endTimestampMs" : "1591990098401"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 293243650,
+      "centerLngE7" : -952600543,
+      "visitConfidence" : 83,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 293249564,
+        "longitudeE7" : -952605870,
+        "placeId" : "ChIJeey4lT2PQIYRKciiva65ZLM",
+        "locationConfidence" : 39.157276
+      }, {
+        "latitudeE7" : 293249029,
+        "longitudeE7" : -952594686,
+        "placeId" : "ChIJbd64zi18P4YRTyNvelYGQDo",
+        "locationConfidence" : 0.21597587
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  } ]
+}
