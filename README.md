@@ -4,7 +4,7 @@ private repo to work on parsec grant together. This is Python-based project deal
 ## Git collab
 
 If you just starting using GitHub, some ground rules. Assuming Win OS, for Mac - adjust accordingly. 
-Install VS Code (recommended, can use other code editors but stay away from Anaconda, we would use **pip install** in our project). Install Git (Mac has it). Install Python 3 (this repo would not work for Python 2) - Mac has Python 2 by default installed, make sure you switch to Python 3. 
+Install VS Code (recommended, can use other code editors but stay away from Anaconda, we would use **pip install** in our project). Install Git (Mac has it) from https://git-scm.com/book/en/v2/Getting-Started-Installing-Git. Install Python 3 (this repo would not work for Python 2) - Mac has Python 2 by default installed, make sure you switch to Python 3 if on Mac (and ALWAYS use separate Virtual Environment for each project, that will save you some headaches later on;).
 - Clone the repo to your machine:
 ~~~
 git clone https://github.com/larka2006/eo_crops.git. #[url of this repo]
@@ -43,7 +43,7 @@ Installed Pythons found by C:\Windows\py.exe Launcher for Windows
  -2.7-32
  ~~~
 
- Install Virtual Environment for the Project - you can use exactly the same name for your environment, repo is setup not to pull files in the environment - they are specific to your machine, no use to share those. If you mane your environment differently, it is ok, just setup **.gitignore** file yourself for it ;) so, type
+ Install Virtual Environment for the Project - you can use exactly the same name for your environment, repo is setup not to pull files in the environment - they are specific to your machine, no use to share those. If you name your environment differently, it is ok, just setup **.gitignore** file yourself for it ;) so, type
  ~~~
  python -m venv .env39eo
  ~~~
@@ -62,6 +62,6 @@ Installed Pythons found by C:\Windows\py.exe Launcher for Windows
  ~~~
  pip install -r requirements.txt
  ~~~
- Now you should have no problem using Jupyter notebooks and Python files in this repo. If in course of your development you need additional module you would **pip install [module]** do not forget to add it in **requirements.txt**
+ Now you should have no problem using Jupyter notebooks and Python files in this repo. If in course of your development you need additional module you would **pip install [module]** do not forget to add it in **requirements.txt** so others (or yourself) working after you can quickly reinstall all modules in the repo.
 
  ## That's All for Now! Welcome to Landviser's Team! Happy Coding 
