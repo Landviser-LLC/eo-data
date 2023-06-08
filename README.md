@@ -7,7 +7,7 @@ If you just starting using GitHub, some ground rules. Assuming Win OS, for Mac -
 Install VS Code (recommended, can use other code editors but stay away from Anaconda, we would use **pip install** in our project). Install Git (Mac has it) from https://git-scm.com/book/en/v2/Getting-Started-Installing-Git. Install Python 3 (this repo would not work for Python 2) - Mac has Python 2 by default installed, make sure you switch to Python 3 if on Mac (and ALWAYS use separate Virtual Environment for each project, that will save you some headaches later on;).
 - Clone the repo to your machine:
 ~~~
-git clone https://github.com/larka2006/eo_crops.git. #[url of this repo]
+git clone https://github.com/Landviser-LLC/eo-data.git. #[url of this repo]
 ~~~
 - Create new local branch for your work and switch to it:
 ~~~
