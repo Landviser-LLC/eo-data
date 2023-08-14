@@ -1,10 +1,10 @@
-# Earth Observations for Crop Perfomance (Phenotype) Prediction
-private repo to work on parsec grant together. This is Python-based project dealing with spatial-temporal geographical datasets. Scientific concept of GxE (Genotype x Environment interaction) some initial work was done in 2007 by Larisa Golovko, then at RiceTec Inc see 
+# Earth Observations for Crop Performance (Phenotype) Prediction
+private repo made public after the work on the EU HORIZON20 PARSEC grant was completed (2020-2021). Sensitive trial information and stale branches were removed. This is a Python-based project dealing with spatial-temporal geographical datasets. Exploring the scientific concept of GxE (Genotype x Environment interaction). Some initial work was done in 2007 by Larisa Golovko, then at RiceTec Inc see 
 
-## Git collab
+## Git collab ground rules 
 
-If you just starting using GitHub, some ground rules. Assuming Win OS, for Mac - adjust accordingly. 
-Install VS Code (recommended, can use other code editors but stay away from Anaconda, we would use **pip install** in our project). Install Git (Mac has it) from https://git-scm.com/book/en/v2/Getting-Started-Installing-Git. Install Python 3 (this repo would not work for Python 2) - Mac has Python 2 by default installed, make sure you switch to Python 3 if on Mac (and ALWAYS use separate Virtual Environment for each project, that will save you some headaches later on;).
+If you just started using GitHub, some ground rules. Assuming Win OS, for Mac - adjust accordingly. 
+Install VS Code (recommended, can use other code editors but stay away from Anaconda, we would use **pip install** in our project). Install Git (Mac has it) from https://git-scm.com/book/en/v2/Getting-Started-Installing-Git. Install Python 3 (this repo would not work for Python 2) - Mac has Python 2 by default installed, make sure you switch to Python 3 if on Mac (and ALWAYS use a separate Virtual Environment for each project, that will save you some headaches later on;).
 - Clone the repo to your machine:
 ~~~
 git clone https://github.com/Landviser-LLC/eo-data.git. #[url of this repo]
@@ -23,7 +23,7 @@ git commit -m "something about what was done on this commit - changes etc"
 ~~~
 git push origin
 ~~~
-then submit pull request here on the GitHub for others to review and approve merge of your branch with **master**. You can then delete your branch here or keep for your continued work. When you return to project after awhile, always do pull master/branch from here using
+then submit pull request here on GitHub for others to review and approve the merge of your branch with **master**. You can then delete your branch here or keep for your continued work. When you return to project after awhile, always do pull master/branch from here using
 ~~~
 git pull origin    # this is on your local terminal when navigated to the project folder, 
                    # also depends on which branch are you - switch to master to pull master updates
@@ -51,7 +51,7 @@ Installed Pythons found by C:\Windows\py.exe Launcher for Windows
  ~~~
  .env39eo/scripts/activate
  ~~~
- Notice how the prompt changed showing that you are in your Python environment - with core Python modules copied in environmental folder and activated
+ Notice how the prompt changed showing that you are in your Python environment - with core Python modules copied into environment folder and activated
  ~~~
  (.env39eo) PS C:\Users\laris\OneDrive\PY3\eo_crops> 
  ~~~
@@ -62,6 +62,6 @@ Installed Pythons found by C:\Windows\py.exe Launcher for Windows
  ~~~
  pip install -r requirements.txt
  ~~~
- Now you should have no problem using Jupyter notebooks and Python files in this repo. If in course of your development you need additional module you would **pip install [module]** do not forget to add it in **requirements.txt** so others (or yourself) working after you can quickly reinstall all modules in the repo.
+ Now you should have no problem using Jupyter Notebooks and Python files in this repo. If in the course of your development, you need an additional module you would **pip install [module]** do not forget to add it in **requirements.txt** so others (or yourself) working after you can quickly reinstall all modules in the repo.
 
  ## That's All for Now! Welcome to Landviser's Team! Happy Coding 
